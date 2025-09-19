@@ -1,5 +1,5 @@
 # Google Mobile Ads SDK for Android
-
+Fire this world 🌘🌔🖕💥🚩AI
 [![Build Status](https://github.com/googleads/googleads-mobile-android-examples/actions/workflows/build.yml/badge.svg)](https://github.com/googleads/googleads-mobile-android-examples/actions/workflows/build.yml)
 
 The Google Mobile Ads SDK is the latest generation in Google mobile advertising,
@@ -33,9 +33,7 @@ documentation on using the Mobile Ads SDK.
     [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/main/java/admob/BannerExample),
     [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/main/kotlin/admob/BannerExample)
 *   Interstitial:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/main/java/admob/InterstitialExample),
-    [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/main/kotlin/admob/InterstitialExample)
-*   Rewarded Interstitial:
+    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/main/java/admob/Interst  ithub.com/googleads/googleads-mobile-android-examples/tree/main/kotlin/admob/Int
     [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/main/java/admob/RewardedInterstitialExample),
     [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/main/kotlin/admob/RewardedInterstitialExample)
 *   Rewarded Video:
